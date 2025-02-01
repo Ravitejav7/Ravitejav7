@@ -5,7 +5,7 @@
 - 💡 Passionate about creating impactful applications using modern technologies.  
 - 🌱 Currently learning Cloud Computing and exploring DevOps tools.  
 - 🔭 Working on enhancing **Aadhar Creation Website**, a enables users to create their unique identification card using full stack.  
-- 📫 Reach me via [Email](mailto:vanjarapuravi28@gmail.com), [LinkedIn][www.linkedin.com/in/ravi-teja-vanjarapu-356080271], or [GitHub](https://github.com/Ravitejav7).  
+- 📫 Reach me via [Email](mailto:vanjarapuravi28@gmail.com), [LinkedIn](www.linkedin.com/in/ravi-teja-vanjarapu-356080271), or [GitHub](https://github.com/Ravitejav7).  
 
 ---
 
