@@ -1,4 +1,4 @@
-# Hi, I'm Raviteja Vanjarapu 👋
+# Hi, I'm Raviteja Vanjarapu
 
 ### Software Development Engineer @ Cashfree Payments | B.Tech ECE, NIT Patna
 
@@ -27,6 +27,7 @@ Right now, I am exploring AI-assisted automation in FinTech product flows, espec
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -39,6 +40,7 @@ Right now, I am exploring AI-assisted automation in FinTech product flows, espec
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ### Frontend
 
@@ -63,6 +65,16 @@ Right now, I am exploring AI-assisted automation in FinTech product flows, espec
 ---
 
 ## Featured Projects
+
+### Credit-Compass
+
+AI-powered backend service for personalized loan recommendations for Indian businesses, built around business profile inputs, GSTIN-style mock data, and loan requirement analysis.
+
+- Built with Node.js, TypeScript, Express.js, OpenAI API, validation middleware, structured services, and Docker support.
+- Focuses on FinTech decision flows: business profile analysis, eligibility reasoning, product matching, and recommendation explanation.
+- Includes API-first backend structure with versioned routes, services, shared error handling, logging, and test tooling.
+
+[Repository](https://github.com/Ravitejav7/Credit-Compass)
 
 ### URL Shortener & Link Analytics
 
