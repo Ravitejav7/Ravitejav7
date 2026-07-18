@@ -119,7 +119,7 @@ Interactive resume-building web app with a clean and responsive UI.
 
 ## Achievements
 
-- Solved **350+ coding problems** across LeetCode and GeeksforGeeks.
+- Solved **500+ coding problems** across LeetCode and GeeksforGeeks.
 - Ranked in the **Top 5%** in NPTEL's **Cloud Computing** course.
 - Completed Udemy's **Mastering Data Structures and Algorithms in C++** course.
 
@@ -127,8 +127,8 @@ Interactive resume-building web app with a clean and responsive UI.
 
 ## Coding Profiles
 
-- [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/)
+- [LeetCode](https://leetcode.com/u/Raviteja28/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/vanjarapxtpj)
 
 ---
 
